@@ -1,0 +1,81 @@
+[
+  {
+    "imgSrc": "https://www.perfocal.com/blog/content/images/2021/01/Perfocal_17-11-2019_TYWFAQ_82_standard-3.jpg",
+    "name": "Dakshi Jindal",
+    "role": "android developer",
+    "companyName": "Tesco",
+    "about": "My hobbies are playing badminton, listening music."
+  },
+  {
+    "imgSrc": "https://images.ctfassets.net/h6goo9gw1hh6/2sNZtFAWOdP1lmQ33VwRN3/24e953b920a9cd0ff2e1d587742a2472/1-intro-photo-final.jpg?w=1200&h=992&fl=progressive&q=70&fm=jpg",
+    "name": "Rohan Mehta",
+    "role": "Frontend Developer",
+    "companyName": "Amazon",
+    "about": "I enjoy painting, hiking, and exploring new cuisines."
+  },
+  {
+    "imgSrc": "https://www.perfocal.com/blog/content/images/2021/01/Perfocal_24-11-20_J7KEDLQ6_3.jpeg_standard-copy.jpg",
+    "name": "Ananya Gupta",
+    "role": "Backend Engineer",
+    "companyName": "Microsoft",
+    "about": "I love reading novels, gardening, and traveling to historical places."
+  },
+  {
+    "imgSrc": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTbpF3IRjq3K2vF74PNI4mpc-kzYwXmegSupg&s",
+    "name": "Kabir Sharma",
+    "role": "data analyst",
+    "companyName": "Google",
+    "about": "My hobbies include cycling, photography, and learning new programming languages."
+  },
+  {
+    "imgSrc": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS-yi8lUjKNVqmWkbY2plqdttxFpzC2Efcq0g&s",
+    "name": "Meera Nair",
+    "role": "UI/UX designer",
+    "companyName": "Meta",
+    "about": "I am passionate about sketching, yoga, and watching documentaries."
+  },
+  {
+    "imgSrc": "https://www.perfocal.com/blog/content/images/2021/01/Perfocal_27-6-2019_4E2CH6_74_standard.jpg",
+    "name": "Priya Verma",
+    "role": "product manager",
+    "companyName": "Netflix",
+    "about": "I like cooking, solving puzzles, and participating in marathons."
+  },
+  {
+    "imgSrc": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcREOme6vZXapI-HTNJXRwstlO_vjjF59Wt6cQ&s",
+    "name": "Arjun Patel",
+    "role": "machine learning engineer",
+    "companyName": "NVIDIA",
+    "about": "I enjoy playing chess, swimming, and experimenting with AI models."
+  },
+  {
+    "imgSrc": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRy5zKoI_m0hy7V1711x_xYAGJesoMf7jwyhQ&s",
+    "name": "Sanya Kapoor",
+    "role": "cloud architect",
+    "companyName": "IBM",
+    "about": "My hobbies are yoga, baking, and exploring cloud computing trends."
+  },
+  {
+    "imgSrc": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRvCvhJhHOUxxRoXZGNwYomsL9ms-atp-p9eA&s",
+    "name": "Rahul Tiwari",
+    "role": "DevOps engineer",
+    "companyName": "Oracle",
+    "about": "I love mountain biking, playing guitar, and automating workflows."
+  },
+  {
+    "imgSrc": "https://mrwallpaper.com/images/thumbnail/cute-girl-vector-art-profile-picture-jhbu3wt713zj2bti.webp",
+    "name": "Nisha Malhotra",
+    "role": "software tester",
+    "companyName": "Accenture",
+    "about": "I enjoy crafting, dancing, and exploring innovative testing techniques."
+  },
+  {
+    "imgSrc": "https://mrwallpaper.com/images/thumbnail/cute-girl-vector-art-profile-picture-jhbu3wt713zj2bti.webp",
+    "name": "Vikram Singh",
+    "role": "security analyst",
+    "companyName": "Cisco",
+    "about": "My hobbies include reading cybercrime novels, playing cricket, and coding ethical hacking tools."
+  }
+
+
+]

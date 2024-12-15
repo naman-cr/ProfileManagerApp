@@ -1,0 +1,12 @@
+<resources>
+    <!-- Base application theme. -->
+    <style name="AppTheme" parent="Theme.AppCompat.Light.DarkActionBar">
+        <!-- Change ActionBar color here -->
+        <item name="android:actionBarStyle">@style/CustomActionBar</item>
+
+    </style>
+
+    <style name="CustomActionBar" parent="Widget.AppCompat.Light.ActionBar.Solid.Inverse">
+        <item name="android:background">#8174A0</item> <!-- Change this to desired color -->
+    </style>
+</resources>
